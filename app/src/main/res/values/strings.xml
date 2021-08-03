@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Droid</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="droid_deserts">Droid deserts</string>
+    <string name="choose_desert">Choose Desert</string>
+    <string name="chocolate_donut">chocolate donut</string>
+    <string name="ice_cream">Ice cream</string>
+    <string name="muffins">muffins</string>
+
+    <string name="donut_order">You have ordered a donut</string>
+    <string name="ice_cream_order">You have ordered an ice cream</string>
+    <string name="muffin_order">You ordered  Muffin</string>
+    <string name="choose_delivery_method">Choose delivery method</string>
+    <string name="same_day_messenger_service">same day messenger service</string>
+    <string name="next_day_messenger_service">next day messenger service</string>
+    <string name="same_day_pick_service">same day pick service</string>
+    <string name="about_us">about us</string>
+    <string name="order">Order</string>
+    <string name="status">Status</string>
+    <string name="call_us">Call us</string>
+    <string name="locate_us">Locate us</string>
+</resources>
